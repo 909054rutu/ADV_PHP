@@ -1,0 +1,28 @@
+
+<Course>
+<SYBBACA>
+<Student_name>om</Student_name>
+<Class_name>bca</Class_name>
+<percentage>70</percentage>
+</SYBBACA>
+<SYBBACA>
+<Student_name>sai</Student_name>
+<Class_name>bcs</Class_name>
+<percentage>80</percentage>
+</SYBBACA>
+<SYBBACA>
+<Student_name>ram</Student_name>
+<Class_name>bca sec</Class_name>
+<percentage>90 </percentage>
+</SYBBACA>
+<SYBBACA>
+<Student_name>swami</Student_name>
+<Class_name>bca</Class_name>
+<percentage>88</percentage>
+</SYBBACA>
+<SYBBACA>
+<Student_name>shree</Student_name>
+<Class_name>bcs</Class_name>
+<percentage>90</percentage>
+</SYBBACA>
+</Course>

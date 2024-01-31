@@ -1,0 +1,13 @@
+<bookStore>
+<book category="scie">
+<title>PHP</title>
+<author>mr.patil</author>
+<price>200</price>
+</book>
+<book category="computer">
+<title>ADV PHP</title>
+<author>mr.abc</author>
+<price>300</price>
+</book>
+</bookStore>
+

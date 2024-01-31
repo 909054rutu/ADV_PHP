@@ -1,0 +1,20 @@
+<breakfast_menu>
+<food>
+<name>French Fries</name>
+<price>Rs45</price>
+<description>Young youths are very much intrested to eat it </description>
+<calories>650</calories>
+</food>
+<food>
+<name>juice</name>
+<price>Rs70</price>
+<description>Young youths are very much intrested to drink it </description>
+<calories>90</calories>
+</food>
+<food>
+<name>fruits</name>
+<price>Rs450</price>
+<description>Young youths are very much intrested to eat it </description>
+<calories>0</calories>
+</food>
+</breakfast_menu>

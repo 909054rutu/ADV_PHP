@@ -1,0 +1,10 @@
+<CricketTeam>
+<Team Country="India">
+<player>virat kohali</player>
+<wicket>3</wicket>
+</Team>
+<Team Country="Australia">
+<player>ABC</player>
+<wicket>9</wicket>
+</Team>
+</CricketTeam>
