@@ -1,0 +1,22 @@
+<Emp_info>
+<emp id="1">
+<name>om</name>
+<p_no>9088776655</p_no>
+<d_birth>10-3-2000</d_birth>
+<gender>male</gender>
+</emp>
+<emp id="2">
+<name>sai</name>
+<p_no>9080776655</p_no>
+<d_birth>11-3-2000</d_birth>
+<gender>male</gender>
+</emp>
+<emp id="3">
+<name>ram</name>
+<p_no>8080776655</p_no>
+<d_birth>12-3-2000</d_birth>
+<gender>male</gender>
+</emp>
+</Emp_info>
+
+
