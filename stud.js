@@ -1,3 +1,4 @@
+
 function disp()
 {
 var a=false;
@@ -7,9 +8,9 @@ a=new XMLHttpRequest();
 }
 else if(window.ActiveXobject)
 {
-a=new ActiveXobject("Microsoft-XMLHTTP");
+a=new ActiveXobject("Microsoft.XMLHTTP");
 }
-var s1"=t1"+document.getElementById("t1").value;
+var s1="t1="+document.getElementById("t1").value;
 a.onreadystatechange=show;
 a.open('POST','stud.php',true);
 a.setRequestHeader("content-type","application/x-www-form-urlencoded");
@@ -20,7 +21,7 @@ if(a.readyState==4)
 {
 if(a.status==200)
 {
-var res=responseText;
+var res=a.responseText;
 document.getElementById('txt').innerHTML=res;
 }
 }
