@@ -1,0 +1,13 @@
+<game>
+<cricket>
+<player>sachin</player>
+<runs>2000</runs>
+<wickets>100</wickets>
+</cricket>
+
+<cricket>
+<player>sachin</player>
+<runs>20</runs>
+<wickets>10</wickets>
+</cricket>
+</game>

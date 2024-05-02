@@ -1,0 +1,15 @@
+
+<book_store>
+<book type='good'>
+<bname>php</bname>
+<price>900</price>
+</book>
+<book id='2'>
+<bname>php</bname>
+<price>900</price>
+</book>
+<book>
+<bname>php</bname>
+<price>900</price>
+</book>
+</book_store>
