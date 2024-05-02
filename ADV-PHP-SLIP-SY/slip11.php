@@ -3,7 +3,7 @@
 <form method="post" action="">
 enter radious:
 <input type="text" name="r1"><br><br>
-enter choce1.area 2.cirumfurnce
+select 1.area 2.cirumfurnce
 <input type="text" name="r4">
 <input type="submit" value="ok">
 </html>
